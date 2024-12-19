@@ -1,0 +1,31 @@
+/home/hais2720/major-project/include/Item.hpp:47: warning: the name 'FlamingSword.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/Item.hpp:68: warning: the name 'GoodPotion.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/Item.hpp:89: warning: the name 'BadPotion.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/NPC.hpp:98: warning: the name 'Guard.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/NPC.hpp:125: warning: the name 'Librarian.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/NPC.hpp:152: warning: the name 'Dementors.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/NPC.hpp:179: warning: the name 'Witch.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/NPC.hpp:206: warning: the name 'Princess.hpp' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/hais2720/major-project/include/Game.hpp:12: warning: Compound Game is not documented.
+/home/hais2720/major-project/include/Character.hpp:22: warning: return type of member Character::getName is not documented
+/home/hais2720/major-project/include/Character.hpp:26: warning: return type of member Character::getInventory is not documented
+/home/hais2720/major-project/include/Character.hpp:45: warning: Member _name (variable) of class Character is not documented.
+/home/hais2720/major-project/include/Character.hpp:46: warning: Member _inventory (variable) of class Character is not documented.
+/home/hais2720/major-project/include/Character.hpp:32: warning: return type of member Character::hasItem is not documented
+/home/hais2720/major-project/include/Environment.hpp:17: warning: Member name (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:18: warning: Member description (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:19: warning: Member connectedEnvironments (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:17: warning: Member name (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:18: warning: Member description (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:19: warning: Member connectedEnvironments (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Game.hpp:15: warning: Member start() (function) of class Game is not documented.
+/home/hais2720/major-project/include/Game.hpp:21: warning: parameters of member Game::handleAnswerResult are not documented
+/home/hais2720/major-project/include/Game.hpp:26: warning: Member inventory (variable) of class Game is not documented.
+/home/hais2720/major-project/include/Environment.hpp:17: warning: Member name (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:18: warning: Member description (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:19: warning: Member connectedEnvironments (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:66: warning: Member npc (variable) of class PuzzleEnvironment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:17: warning: Member name (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:18: warning: Member description (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/Environment.hpp:19: warning: Member connectedEnvironments (variable) of class Environment is not documented.
+/home/hais2720/major-project/include/UserInput.hpp:16: warning: Found unknown command '@detailsThe'
